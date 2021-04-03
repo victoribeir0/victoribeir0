@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Victor! mechatronics engineering and master's degree student in digital signal processing at Federal University of Sergipe.
+- 👋 Hello, I’m Victor! mechatronics engineering and master's degree student in signal processing at Federal University of Sergipe.
 - 💻 I’m interested in signal processing and pattern recognition.
 - 📑 I've worked with speech (speaker verification and emotion recognition) and biomedical signal (ECG processing and arrhythmia detection).
 - 📕 I’m currently learning machine learning, data analysis, signal processing, and using Python and Matlab.
