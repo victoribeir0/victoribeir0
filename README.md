@@ -1,7 +1,7 @@
 # Português
 - 👋 Olá, Sou Victor! engenheiro mecatrônico e mestrando em processamento de sinais na Universidade Federal de Sergipe (UFS).
 - 💻 Tenho interesses nas áreas de processamento de sinais e reconhecimento de padrões. 
-- 📑 Eu já trabalhei com sinais de voz (verificação de orador e reconhecimento de emoções) e sinais biomédicos (processamento de ECG e detecção de arritmia.
+- 📑 Eu já trabalhei com sinais de voz (verificação de orador e reconhecimento de emoções) e sinais biomédicos (processamento de ECG e detecção de arritmia).
 - 📕 Estou atualmente estudando aprendizado de máquina, análise de dados, processamento de sinais, e usando Python e Matlab.
 - ✉️ Podem entrar em contato comigo por email: victoribeiro@outlook.com.br ou [LinkedIn](https://www.linkedin.com/in/victoribeiro/).
 
