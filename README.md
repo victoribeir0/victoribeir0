@@ -1,5 +1,5 @@
 # Português
-- 👋 Olá, Sou Victor! engenheiro mecatrônico e mestrando em processamento de sinais na Universidade Federal de Sergipe (UFS).
+- 👋 Olá, Sou Victor! engenheiro mecatrônico e mestre em processamento de sinais na Universidade Federal de Sergipe (UFS).
 - 💻 Tenho interesses nas áreas de processamento de sinais e reconhecimento de padrões. 
 - 📑 Eu já trabalhei com sinais de voz (verificação de orador e reconhecimento de emoções) e sinais biomédicos (processamento de ECG e detecção de arritmia).
 - 📕 Estou atualmente estudando aprendizado de máquina, análise de dados e processamento de sinais, usando Python e Matlab.
